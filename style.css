@@ -78,3 +78,8 @@ html, body {
     font-family: Arial;
     color: rgb(21, 136, 202);
 }
+@media screen and (max-width: 640px){
+    .container{
+        width: 80%;
+    }
+}
